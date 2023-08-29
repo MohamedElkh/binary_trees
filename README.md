@@ -1,7 +1,5 @@
 # 🌳 0x1D. C - Binary Trees 🌳
 
-![ALX-SE Logo](https://alx-apply.hbtn.io/brand_alx/share_image_share-02.jpg)
-
 ## Project Overview
 
 This project is part of the ALX-SE (ALX Software Engineering) program and was completed by **Foday Malike Kabah** and **Mohamed Elkharashy** as a task. The main focus of this project is on understanding binary trees in the C programming language.

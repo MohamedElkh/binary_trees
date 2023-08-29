@@ -53,4 +53,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-For any inquiries or additional information, please feel free to contact us. Happy coding! 🎉
+For any inquiries or additional information, please feel free to contact us. Happy coding! 😊🎉

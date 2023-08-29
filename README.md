@@ -37,7 +37,7 @@ The project is organized as follows:
 
 To compile the code, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/binary-trees-project.git`
+1. Clone the repository: `git clone https://github.com/MohamedElkh/binary_trees.git`
 2. Navigate to the project directory: `cd binary-trees-project`
 3. Compile the code: `gcc -Wall -Werror -Wextra -pedantic *.c -o binary_tree`
 
